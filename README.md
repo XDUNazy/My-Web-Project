@@ -10,11 +10,7 @@ TaoMaoDoo-Mall 项目是一套电商系统，包括 TaoMaoDoo-Mall 商城系统�
 
 ### 商城页面预览
 
-- 商城首页 1
-
-	![index](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/product/index-01.gif)
-
-- 商城首页 2
+- 商城首页 
 
 	![index](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/product/index-02.png)
 
