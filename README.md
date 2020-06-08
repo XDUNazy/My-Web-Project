@@ -34,9 +34,6 @@ TaoMaoDoo-Mall 项目是一套电商系统，包括 TaoMaoDoo-Mall 商城系统�
 
 ### 后台管理页面
 
-- 登录页
-
-	![login](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/product/manage-login.png)
 
 - 轮播图管理
 
