@@ -14,9 +14,6 @@ TaoMaoDoo-Mall 项目是一套电商系统，包括 TaoMaoDoo-Mall 商城系统�
 
 	![index](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/product/index-02.png)
 
-- 商品搜索
-
-	![search](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/product/search.png)
 
 - 购物车
 
